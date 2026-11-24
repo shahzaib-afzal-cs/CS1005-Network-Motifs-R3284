@@ -11,9 +11,9 @@ Language: **C++17**. No graph library is used; only the standard library.
 | Hashim Amjad | 25I-0814 |
 | Umair | 25I-1009 |
 
-Section: **TODO_SECTION**
+Section: **F_SECTION**
 
-Group size: 4 members, approved by the course instructor.
+Group size: 4 members.
 
 ## R and derived parameters
 
