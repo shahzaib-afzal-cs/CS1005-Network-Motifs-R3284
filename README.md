@@ -198,7 +198,7 @@ from a few senders on top of a looser reciprocal core.
 
 ## Contributions
 
-* Shahzaib Afzal: TODO_CONTRIB
-* Muhammad Usman: TODO_CONTRIB
-* Hashim Amjad: TODO_CONTRIB
-* Umair: TODO_CONTRIB
+* Shahzaib Afzal: triad classification (src/triad.cpp), canonical code table, triad census, hand example in README
+* Muhammad Usman: null model (src/nullmodel.cpp), double edge swap, degree assert, Z-score computation
+* Hashim Amjad: data loading and cleaning, top-20 ranking, department subgraphs, main driver (src/main.cpp)
+* Umair: SVG chart (src/chart.cpp), test suite (tests/test_triad.cpp), README and results write-up
