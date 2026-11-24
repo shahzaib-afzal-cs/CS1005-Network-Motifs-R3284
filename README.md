@@ -2,7 +2,7 @@
 
 Language: **C++17**. No graph library is used; only the standard library.
 
-## Group
+## Group    
 
 | Name | Roll number |
 |------|-------------|
