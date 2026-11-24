@@ -1,0 +1,66 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='560' font-family='Arial, sans-serif'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='500' y='30' text-anchor='middle' font-size='18' font-weight='bold'>Triad Z-scores, R = 3284 (Dept 21 vs Dept 1)</text>
+<line x1='80' y1='439.888' x2='970' y2='439.888' stroke='#dddddd'/>
+<text x='72' y='443.888' text-anchor='end' font-size='12'>-10.0</text>
+<line x1='80' y1='366.796' x2='970' y2='366.796' stroke='#dddddd'/>
+<text x='72' y='370.796' text-anchor='end' font-size='12'>-5.0</text>
+<line x1='80' y1='293.705' x2='970' y2='293.705' stroke='#dddddd'/>
+<text x='72' y='297.705' text-anchor='end' font-size='12'>0.0</text>
+<line x1='80' y1='220.613' x2='970' y2='220.613' stroke='#dddddd'/>
+<text x='72' y='224.613' text-anchor='end' font-size='12'>5.0</text>
+<line x1='80' y1='147.522' x2='970' y2='147.522' stroke='#dddddd'/>
+<text x='72' y='151.522' text-anchor='end' font-size='12'>10.0</text>
+<line x1='80' y1='74.4301' x2='970' y2='74.4301' stroke='#dddddd'/>
+<text x='72' y='78.4301' text-anchor='end' font-size='12'>15.0</text>
+<line x1='80' y1='293.705' x2='970' y2='293.705' stroke='black'/>
+<rect x='86.8462' y='293.705' width='23.9615' height='143.099' fill='#2f6db5'/>
+<rect x='110.808' y='293.705' width='23.9615' height='133.552' fill='#e07b24'/>
+<text x='114.231' y='500' text-anchor='middle' font-size='13'>1</text>
+<rect x='155.308' y='293.705' width='23.9615' height='145.835' fill='#2f6db5'/>
+<rect x='179.269' y='293.705' width='23.9615' height='143.568' fill='#e07b24'/>
+<text x='182.692' y='500' text-anchor='middle' font-size='13'>2</text>
+<rect x='223.769' y='293.705' width='23.9615' height='31.5719' fill='#2f6db5'/>
+<rect x='247.731' y='293.705' width='23.9615' height='32.7951' fill='#e07b24'/>
+<text x='251.154' y='500' text-anchor='middle' font-size='13'>3</text>
+<rect x='292.231' y='293.705' width='23.9615' height='129.873' fill='#2f6db5'/>
+<rect x='316.192' y='293.705' width='23.9615' height='158.019' fill='#e07b24'/>
+<text x='319.615' y='500' text-anchor='middle' font-size='13'>4</text>
+<rect x='360.692' y='293.705' width='23.9615' height='90.4775' fill='#2f6db5'/>
+<rect x='384.654' y='293.705' width='23.9615' height='75.5349' fill='#e07b24'/>
+<text x='388.077' y='500' text-anchor='middle' font-size='13'>5</text>
+<rect x='429.154' y='293.705' width='23.9615' height='70.4738' fill='#2f6db5'/>
+<rect x='453.115' y='293.705' width='23.9615' height='48.6058' fill='#e07b24'/>
+<text x='456.538' y='500' text-anchor='middle' font-size='13'>6</text>
+<rect x='497.615' y='293.705' width='23.9615' height='62.8783' fill='#2f6db5'/>
+<rect x='521.577' y='293.705' width='23.9615' height='130.809' fill='#e07b24'/>
+<text x='525' y='500' text-anchor='middle' font-size='13'>7</text>
+<rect x='566.077' y='118.975' width='23.9615' height='174.73' fill='#2f6db5'/>
+<rect x='590.038' y='140.88' width='23.9615' height='152.825' fill='#e07b24'/>
+<text x='593.462' y='500' text-anchor='middle' font-size='13'>8</text>
+<rect x='634.538' y='293.705' width='23.9615' height='69.5085' fill='#2f6db5'/>
+<rect x='658.5' y='293.705' width='23.9615' height='72.2587' fill='#e07b24'/>
+<text x='661.923' y='500' text-anchor='middle' font-size='13'>9</text>
+<rect x='703' y='293.705' width='23.9615' height='153.872' fill='#2f6db5'/>
+<rect x='726.962' y='293.705' width='23.9615' height='147.977' fill='#e07b24'/>
+<text x='730.385' y='500' text-anchor='middle' font-size='13'>10</text>
+<rect x='771.462' y='293.705' width='23.9615' height='96.5882' fill='#2f6db5'/>
+<rect x='795.423' y='293.705' width='23.9615' height='52.3341' fill='#e07b24'/>
+<text x='798.846' y='500' text-anchor='middle' font-size='13'>11</text>
+<rect x='839.923' y='293.705' width='23.9615' height='153.213' fill='#2f6db5'/>
+<rect x='863.885' y='293.705' width='23.9615' height='41.7412' fill='#e07b24'/>
+<text x='867.308' y='500' text-anchor='middle' font-size='13'>12</text>
+<rect x='908.385' y='118.389' width='23.9615' height='175.316' fill='#2f6db5'/>
+<rect x='932.346' y='98.2759' width='23.9615' height='195.429' fill='#e07b24'/>
+<text x='935.769' y='500' text-anchor='middle' font-size='13'>13</text>
+<line x1='80' y1='322.941' x2='970' y2='322.941' stroke='red' stroke-dasharray='6,4' stroke-width='1.5'/>
+<line x1='80' y1='264.468' x2='970' y2='264.468' stroke='red' stroke-dasharray='6,4' stroke-width='1.5'/>
+<text x='966' y='260.468' text-anchor='end' font-size='11' fill='red'>Z = +2</text>
+<text x='966' y='336.941' text-anchor='end' font-size='11' fill='red'>Z = -2</text>
+<text x='525' y='525' text-anchor='middle' font-size='14'>Triad class</text>
+<text transform='translate(22,275) rotate(-90)' text-anchor='middle' font-size='14'>Z-score</text>
+<rect x='90' y='42' width='14' height='14' fill='#2f6db5'/>
+<text x='110' y='54' font-size='13'>Dept 21 (A)</text>
+<rect x='270' y='42' width='14' height='14' fill='#e07b24'/>
+<text x='290' y='54' font-size='13'>Dept 1 (B)</text>
+</svg>
